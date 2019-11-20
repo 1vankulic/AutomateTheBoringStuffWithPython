@@ -6,3 +6,5 @@ if a < b:
     print(a)
 else:
     print(b)
+
+print(bla bla)
