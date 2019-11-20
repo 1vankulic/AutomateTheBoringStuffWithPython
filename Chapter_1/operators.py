@@ -43,10 +43,11 @@ string = ['aa', 'aaa', 'Hello !', '12 Cats']
 ## Valid and Invalid Variable Names
 
 valid_variable_names = [
-    balacnce, currentBalance, current_balance, _spam, SPAM, abc4
+    #balacnce, currentBalance, current_balance, _spam, SPAM, abc4
 ]
 
 invalid_variable_names = [
-    current-balance, current balance, 4account, 42, total_$um
+    #current-balance, current, 4account, 42, total_$um
 ]
 
+print("ughh")
